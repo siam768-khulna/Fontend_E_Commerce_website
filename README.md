@@ -7,6 +7,14 @@ S.A Mart is a **responsive multi-page e-commerce frontend** project built using 
 It simulates an online shopping platform with product listings, cart management, and interactive UI features.
 
 ---
+Users can:
+- Browse products on the Shop page.
+- View product details with image galleries.
+- Add, update, or remove products from the Cart.
+- Apply coupon codes for discounts.
+- Read fashion/product-related blog posts.
+- Contact the company via the contact form.
+
 
 ## 📌 Features
 - 🏠 **Home Page** with hero banner and featured products  
@@ -27,4 +35,3 @@ It simulates an online shopping platform with product listings, cart management,
 
 ---
 
-## 📂 Project Structure
